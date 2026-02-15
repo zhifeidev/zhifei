@@ -1,6 +1,4 @@
-# Hello World
-
-I'm Zhi Fei. I'm Software Engineer with nearly 14 years of experience in the tech industry.
+I'm Zhi Fei. I'm Software Engineer with 14 years of experience in the tech industry.
 
 ## Experiences
 
