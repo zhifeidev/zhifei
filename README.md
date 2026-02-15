@@ -1,8 +1,3 @@
-```
-npm install
-npm run dev
-```
+# Main site
 
-```
-open http://localhost:3000
-```
+Nothing special here
