@@ -1,4 +1,8 @@
-I'm Zhi Fei, a Software Engineer with 14 years of experience in the tech industry.
+Hi, I'm Zhi Fei, a software engineer with over 14 years of experience in the tech industry.
+
+I also develop video games sometimes using Godot.
+
+[GitHub](https://github.com/zhifez) | [LinkedIn](https://www.linkedin.com/in/leezhifei/) | [Games](https://zhifez.itch.io/)
 
 ## Experiences
 
