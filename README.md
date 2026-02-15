@@ -1,4 +1,4 @@
-I'm Zhi Fei. I'm Software Engineer with 14 years of experience in the tech industry.
+I'm Zhi Fei, a Software Engineer with 14 years of experience in the tech industry.
 
 ## Experiences
 
